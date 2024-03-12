@@ -1,0 +1,23 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+.contenedor{
+    display:flex ;
+    width: auto;
+    height: 100px;
+    background: black;
+}
+.contSpan{
+    display: flex;
+    margin: auto;
+    margin-bottom: auto;
+}
+.contSpan span {
+    width:50px;
+    height: 60px;
+    background-color: #161616;
+    margin-left: 5px;
+    border-radius: 3px;
+    color: white;
+    font-weight: 400;
+    font-size: 40px;
+    text-align: center;
+}
